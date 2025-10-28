@@ -1,0 +1,19 @@
+{
+  "name": "canvas-tool-ui",
+  "version": "1.0.0",
+  "description": "Canvas LMS Tool - Exibe informações do usuário",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "canvas",
+    "lms",
+    "tool"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selfsigned": "^3.0.1"
+  }
+}
